@@ -20,19 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Eu Avatar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Então, como solução para o projeto proposto, foi criado um avatar simulando a mim mesmo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para solução foi utilizado, Veed.IO e o ChatGP.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Definição do Avatar;
+Definição do pach de voz;
+e Criação do Texto
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+
+https://github.com/user-attachments/assets/cb17f0bd-c328-4d27-9303-4a3925208bbe
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
